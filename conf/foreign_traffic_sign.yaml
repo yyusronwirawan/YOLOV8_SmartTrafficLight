@@ -1,0 +1,11 @@
+path: /Users/alina/PycharmProjects/obj_detection/datasets/traffic_sign_kaggle/dataset/datasets  # dataset root dir
+train: images/train  # train images (relative to 'path') 128 images
+val: images/valid  # val images (relative to 'path') 128 images
+test: images/test # test images (optional)
+
+# Classes
+names:
+  0: prohibitory
+  1: danger
+  2: mandatory
+  3: other

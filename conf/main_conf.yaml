@@ -1,0 +1,5 @@
+yolo_conf: /Users/alina/PycharmProjects/obj_detection/conf/yolo.conf
+weights_path: /Users/alina/PycharmProjects/obj_detection/weights/yolov3.weights
+labels: /Users/alina/PycharmProjects/obj_detection/data/coco.names
+processed_path: /Users/alina/PycharmProjects/obj_detection/data/processed_img/
+dataset: /Users/alina/fiftyone/coco-2017/validation/data
